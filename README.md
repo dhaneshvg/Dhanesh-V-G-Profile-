@@ -5,7 +5,7 @@
 - 📫 How to reach me By Linked in----**https://www.linkedin.com/in/dhanesh-v-g-1562a713a/**
 -                        Instagram----**https://www.instagram.com/dhaneshvgdvg/**
                          Facebook-----**https://www.facebook.com/dhanesh.villwamangalath.G**
-                         Blog---------**https://www.infinityexplorationofficial.blogspot.com**
+                         Blog
                          
 <!---
 dhaneshvg/dhaneshvg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
