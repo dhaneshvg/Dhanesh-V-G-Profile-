@@ -2,10 +2,10 @@
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me By Linked in----**https://www.linkedin.com/in/dhanesh-v-g-1562a713a/**
+- 📫 How to reach me By Linked in----**https://www.linkedin.com/in/dhanesh-vg/**
 -                        Instagram----**https://www.instagram.com/dhaneshvgdvg/**
                          Facebook-----**https://www.facebook.com/dhanesh.villwamangalath.G**
-                         Blog
+                         
                          
 <!---
 dhaneshvg/dhaneshvg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
